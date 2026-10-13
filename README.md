@@ -10,7 +10,7 @@
 
 ### Connect with me:
 [![Portfolio](https://img.shields.io/badge/Website-poshangaire.com.np-3B7A57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poshangaire.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poshan_Gaire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/poshan-gaire)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poshan_Gaire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poshan-gaire)
 [![GitHub](https://img.shields.io/badge/GitHub-poshan--gaire-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poshan-gaire)
 
 ---
